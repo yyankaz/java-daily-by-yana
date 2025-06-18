@@ -1,3 +1,5 @@
+# Arrays Basics
+
 ### 1. Two Sum (`twoPlus`)
 **Problem:**  
 Check if the array contains a pair of numbers whose sum is equal to the given target.

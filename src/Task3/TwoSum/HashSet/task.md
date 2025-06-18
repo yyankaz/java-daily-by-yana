@@ -1,3 +1,5 @@
+# Two Sum. HashSet
+
 Given an array of integers `nums` and an integer `target`, return `true` if there are two distinct elements in the array such that their sum equals the target. Return `false` otherwise.
 
 You should implement it efficiently — avoid using nested loops.
